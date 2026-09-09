@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
