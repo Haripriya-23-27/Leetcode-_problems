@@ -25,10 +25,15 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/0771-jewels-and-stones) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Haripriya-23-27/Leetcode-_problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
